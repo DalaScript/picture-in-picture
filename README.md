@@ -15,6 +15,7 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 - [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
   - [🎓 What I learned](#-what-i-learned)
+  - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
@@ -26,7 +27,7 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 📸 Screenshot
 
-![](./assets/screenshot.jpg)
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -38,15 +39,15 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
  - ✅ Prompts the user to select a screen to share
  - ✅ Streams the selected screen into a hidden video element
  - ✅ Allows starting Picture-in-Picture with a single click
- - ✅ Responsive layout and modern button design
- - ✅ Built-in error handling for unsupported or denied access
+
+---
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
  - HTML5
- - CSS3 (Custom button styling + Google Fonts)
+ - CSS3
  - Vanilla JavaScript
  - Picture-in-Picture Web API
  - MediaDevices API (`getDisplayMedia()`)
@@ -57,6 +58,18 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
  - Implementing and controlling Picture-in-Picture mode via JavaScript
  - Managing DOM elements and user interaction state (e.g., disabling button while PiP is active)
  - Creating clean UI with shadows, gradients, and responsive centering
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+
+### 🔙 Previous Project
+
+ - Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ### 🔜 Next Project
 
