@@ -69,11 +69,11 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 🔙 Previous Project
 
- - Infinite Scroll → [View Repository](https://github.com/DalaScript/infinite-scroll)
+ - Infinite Scroll | *[Project [2]/20]* → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ### 🔜 Next Project
 
- - Joke Teller → [View Repository](https://github.com/DalaScript/joke-teller)
+ - Joke Teller | *[Project [4]/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
 
 ---
 
