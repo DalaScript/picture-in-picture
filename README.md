@@ -17,6 +17,7 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
   - [🎓 What I learned](#-what-i-learned)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
+  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -27,7 +28,7 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 📸 Screenshot
 
-![screenshot of the project's webpage](./assets/screenshot.jpg)
+![Live Preview Screenshot](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
@@ -69,11 +70,18 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 🔙 Previous Project
 
- - Infinite Scroll | *[Project [2]/20]* → [View Repository](https://github.com/DalaScript/infinite-scroll)
+ - Infinite Scroll | *[Project 2/20]* → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ### 🔜 Next Project
 
- - Joke Teller | *[Project [4]/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
+ - Joke Teller | *[Project 4/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
+
+### 🗃️ Useful resources
+
+ - [Google Fonts](https://fonts.google.com/) – Source for beautiful and free web fonts used in your UI.
+ - [CSS Tricks - Picture-in-Picture Guide](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/) – Great overview and code snippets for working with the PiP Web API.
+ - [MDN - Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture) – In-depth guide on using `getDisplayMedia()` for screen sharing.
+ - [TC39](https://github.com/tc39/proposals) – The list of JavaScript language feature proposals
 
 ---
 
