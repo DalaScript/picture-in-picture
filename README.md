@@ -12,12 +12,11 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
   - [📸 Screenshot](#-screenshot)
   - [🔗 Links](#-links)
   - [📌 Features](#-features)
-- [🧠 My process](#-my-process)
   - [🛠️ Built with](#️-built-with)
-  - [🎓 What I learned](#-what-i-learned)
+- [🧠 My process](#-my-process)
+  - [🗃️ Useful resources](#️-useful-resources)
   - [🔙 Previous Project](#-previous-project)
   - [🔜 Next Project](#-next-project)
-  - [🗃️ Useful resources](#️-useful-resources)
 - [👤 Author](#-author)
   - [🌐 Connect with Me](#-connect-with-me)
   - [💻 Coding Profiles](#-coding-profiles)
@@ -32,56 +31,41 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 🔗 Links
 
- - [🔴 Live Demo](https://dalascript.github.io/picture-in-picture/)
- - [🗂️ GitHub Repository](https://github.com/DalaScript/picture-in-picture)
+- [🔴 Live Demo](https://dalascript.github.io/picture-in-picture/)
+- [🗂️ GitHub Repository](https://github.com/DalaScript/picture-in-picture)
 
 ### 📌 Features
 
- - ✅ Prompts the user to select a screen to share
- - ✅ Streams the selected screen into a hidden video element
- - ✅ Allows starting Picture-in-Picture with a single click
+- ✅ Prompts the user to select a screen to share
+- ✅ Streams the selected screen into a hidden video element
+- ✅ Allows starting Picture-in-Picture with a single click
+
+### 🛠️ Built with
+
+- HTML5
+- CSS3
+- Vanilla JavaScript
+- Picture-in-Picture Web API
+- MediaDevices API (`getDisplayMedia()`)
 
 ---
 
 ## 🧠 My Process
 
-### 🛠️ Built with
+### 🗃️ Useful resources
 
- - HTML5
- - CSS3
- - Vanilla JavaScript
- - Picture-in-Picture Web API
- - MediaDevices API (`getDisplayMedia()`)
-
-### 🎓 What I Learned
-
- - How to work with `getDisplayMedia()` to capture the screen
- - Implementing and controlling Picture-in-Picture mode via JavaScript
- - Managing DOM elements and user interaction state (e.g., disabling button while PiP is active)
- - Creating clean UI with shadows, gradients, and responsive centering
-
-  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
-  > rather than learning something entirely new.  
-  >  
-  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
-  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
-  >  
-  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
+- [Google Fonts](https://fonts.google.com/)
+- [CSS Tricks - Picture-in-Picture Guide](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/)
+- [MDN - Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture)
+- [TC39](https://github.com/tc39/proposals)
 
 ### 🔙 Previous Project
 
- - Infinite Scroll | *[Project 2/20]* → [View Repository](https://github.com/DalaScript/infinite-scroll)
+- Infinite Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinite-scroll)
 
 ### 🔜 Next Project
 
- - Joke Teller | *[Project 4/20]* → [View Repository](https://github.com/DalaScript/joke-teller)
-
-### 🗃️ Useful resources
-
- - [Google Fonts](https://fonts.google.com/) – Source for beautiful and free web fonts used in your UI.
- - [CSS Tricks - Picture-in-Picture Guide](https://css-tricks.com/an-introduction-to-the-picture-in-picture-web-api/) – Great overview and code snippets for working with the PiP Web API.
- - [MDN - Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API/Using_Screen_Capture) – In-depth guide on using `getDisplayMedia()` for screen sharing.
- - [TC39](https://github.com/tc39/proposals) – The list of JavaScript language feature proposals
+- Joke Teller | *Project 4/20* → [View Repository](https://github.com/DalaScript/joke-teller)
 
 ---
 
@@ -89,13 +73,13 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 🌐 Connect with Me
 
- - [Instagram](https://www.instagram.com/DalaScript)
- - [YouTube](https://www.youtube.com/@DalaScript)
+- [Instagram](https://www.instagram.com/DalaScript)
+- [YouTube](https://www.youtube.com/@DalaScript)
 
 ### 💻 Coding Profiles
 
- - [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
- - [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
- - [GitHub](https://github.com/DalaScript)
+- [freeCodeCamp](https://www.freecodecamp.org/DalaScript)
+- [FrontendMentor](https://www.frontendmentor.io/profile/DalaScript)
+- [GitHub](https://github.com/DalaScript)
 
 *🙌 Thanks for checking out my project! More coming soon. Stay tuned 🚀*
