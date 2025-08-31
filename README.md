@@ -61,7 +61,7 @@ A minimalist Picture-in-Picture (PiP) web app that allows users to share their s
 
 ### 🔙 Previous Project
 
-- Infinite Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinite-scroll)
+- Infinity Scroll | *Project 2/20* → [View Repository](https://github.com/DalaScript/infinity-scroll)
 
 ### 🔜 Next Project
 
